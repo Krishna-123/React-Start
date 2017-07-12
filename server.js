@@ -7,8 +7,8 @@ app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
 })); 
 
 var user = {
-	firstname:'krishna',
-	lastname:'agarwal'
+	firstname:'wxy',
+	lastname:'xyz'
 };
 
 app.use(express.static('public'));
